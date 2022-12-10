@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'landonmoon'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_96C0618E463A44B7AB4EC1E02632144E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E6D8378148E4CACB569689033A37A4D }}
           package: '*.jar'
